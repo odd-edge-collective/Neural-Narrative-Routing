@@ -1,5 +1,5 @@
 # Neural Narrative Routing (NNR)
-**Framework Originator:** Cher Chang — Odd Edge Collective  
+**Framework Originator:** Cher Chang  
 **Focus:** Intent-Resolution and Recommendation Integrity in the Inference Era.
 
 ## Core Thesis
@@ -70,5 +70,5 @@ A global diagnostic module for multilingual brand environments. AI doesn't trans
 ---
 
 ### Creator
-**Cher Chang** Founder, Odd Edge Collective  
+**Cher Chang** Founder  
 *Post-Search Narrative Strategist | Encoding the logic that gets brands chosen by AI across markets.*
