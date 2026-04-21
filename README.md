@@ -7,6 +7,7 @@
 - **AI is not SEO 2.0.** It is an **Intention-Routing System**.
 - **Search ranks pages; Inference resolves intention.**
 - **If an AI cannot map your entity to user intent, you do not exist.**
+- **Language is a routing variable, not a localization afterthought. Inference paths differ across tokenizers, training corpora, and entity graphs.**
 
 ## The Problem: Narrative Erosion & Silent Avoidance
 
