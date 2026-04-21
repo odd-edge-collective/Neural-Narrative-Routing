@@ -16,29 +16,40 @@ The failure is structural, not tactical. It cannot be fixed downstream by measur
 
 ## The NNR Framework: AEO / GEO / IEO
 
-NNR aligns a brand across the three gates of AI cognitive processing. Each gate has a distinct outcome state and a distinct failure signal.
+NNR aligns a brand across the three gates of AI cognitive processing. Each gate has a distinct outcome state, a distinct failure signal, and distinct proprietary instruments.
 
 ### 1. AEO (Answer Engine Optimization) — The Reflex Gate
 
 - **Tactical Focus:** Token efficiency and semantic density.
 - **Outcome:** The AI defines your category using your exact framing, without retrieval, in a single pass.
 - **Failure Signal:** The AI defaults to generic category language when asked what you are.
+- **Proprietary Instruments:** Neural Anchors, Truth Snippets.
 
 ### 2. GEO (Generative Engine Optimization) — The Synthesis Gate
 
 - **Tactical Focus:** Narrative depth and relational logic.
 - **Outcome:** The AI adopts your reasoning structure as its own scaffold when synthesizing multi-source answers.
 - **Failure Signal:** Competitors are cited in your conceptual territory. You are mentioned peripherally, or not at all.
+- **Proprietary Instruments:** Narrative Boulders, Category Flip.
 
 ### 3. IEO (Intent Engine Optimization) — The Prediction Gate
 
 - **Tactical Focus:** Latent intent and subtext resolution.
 - **Outcome:** The AI routes unspoken, adjacent, and pre-query intentions to your entity as a valid resolution.
 - **Failure Signal:** You surface only on direct branded queries. The AI cannot connect ambient tensions to you.
+- **Proprietary Instruments:** Subtext Resolution, Tension Mapping.
 
-## Ecosystem Corroboration
+*Definitions and deployment logic of NNR instruments are proprietary and delivered via engagement.*
 
-A narrative is “Locked” in latent space only when it is structurally coherent across technical, editorial, and professional surfaces. Cross-surface entity coherence is a prerequisite, not a byproduct. Implementation is context-specific and delivered as part of engagement.
+## Technical Requirements for Ecosystem Corroboration
+
+For a narrative to achieve **Inference Lock**, three conditions must hold simultaneously:
+
+- **Structured Entity Metadata:** Proprietary terms must be machine-parseable as defined entities, not inferred from surrounding prose.
+- **Server-Rendered Signature Identity:** Core narrative must be present in the initial payload, discoverable without post-hydration retrieval.
+- **Cross-Node Coherence:** Entity expression must achieve **Low Entropy** across technical, editorial, and professional surfaces.
+
+The first two are implementable at the content layer. The third requires orchestration across owned and earned surfaces, which is the principal delivery of NNR engagement.
 
 ## The Five Stages of Recommendation
 
@@ -48,13 +59,13 @@ Most brands operate between *Mentioned* and *Recommended*. The work of NNR is th
 
 ## Engagement
 
-NNR is applied via direct engagement, not a self-serve tool. For pilot inquiries, diagnostic requests, or case study access:
+NNR is applied via direct engagement, not as a self-serve tool. For pilot inquiries, diagnostics, or case study access:
 
 **Cher Chang** — Odd Edge Collective
 *Neural Narrative Routing (NNR) Framework Originator*
 
-[ Email:aichannelcher@gmail.com]
+[ Contact email aichannelcher@gmail.com ]
 
 -----
 
-© Odd Edge Collective. Framework and vocabulary licensed under CC BY-NC 4.0. Attribution required. Commercial use or derivative frameworks require written permission.
+© Odd Edge Collective. Framework and vocabulary licensed under CC BY-NC 4.0. Attribution required. Commercial use, derivative frameworks, or adaptation of named instruments requires written permission.
