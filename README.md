@@ -1,74 +1,60 @@
 # Neural Narrative Routing (NNR)
-**Framework Originator:** Cher Chang  
-**Focus:** Intent-Resolution and Recommendation Integrity in the Inference Era.
+
+**A Protocol for Intent-Resolution and Recommendation Integrity in the Inference Era.**
 
 ## Core Thesis
-> **AI(LLM) is not SEO 2.0. It is an Intention-Routing System.**
 
-* **Search ranks pages.** Inference resolves intention.
-* **The Shift:** If an LLM cannot map your entity to user intent, you do not exist in the answer.
-* **The Reality:** In the post-search era, brands aren't just about creating content—they are about **encoding logic systems.**
+- **AI is not SEO 2.0.** It is an **Intention-Routing System**.
+- **Search ranks pages; Inference resolves intention.**
+- **If an AI cannot map your entity to user intent, you do not exist.**
 
-## The Strategic Window
-This is the most significant opportunity for narrative displacement since the rise of SEO and Meta. We are currently in a state of **Inference Fluidity**. AI models are establishing their primary reasoning paths *now*. 
+## The Problem: Narrative Erosion & Silent Avoidance
 
-The brands that encode their logic into the LLM context today will become the "default setting" for their categories. Those who wait for a board-level mandate will likely find themselves already trapped in **Silent Avoidance**.
+In the Inference Era, visibility is secondary to **Citability**. Brands suffer from **Silent Avoidance** not because they lack “keywords,” but because they lack a **Logic String**. When an LLM cannot find a path of least resistance between a **Consumer Tension** and your **Product Truth**, it excludes you — to avoid hallucination or high **Token Tax**.
 
----
-
-## The Problem: Silent Avoidance
-**Silent Avoidance** is a failure state where an AI(LLM) omits a brand from recommendations because it lacks a verifiable **Logic String**, despite knowing the brand exists.
-
-When an engine cannot find a path of least resistance between a **Consumer Tension** and your **Product Truth**, it excludes you to avoid hallucination or high **Token Tax**—the computational penalty paid to process noisy, low-signal content.
-
----
+The failure is structural, not tactical. It cannot be fixed downstream by measurement tools or content volume. It requires architecture-level intervention.
 
 ## The NNR Framework: AEO / GEO / IEO
-A three-gate model of AI(LLM) cognitive processing:
 
-1. **AEO — Answer Engine Optimization (The Reflex Gate)**
-   * **Focus:** Token Efficiency and Semantic Density.
-   * **Mechanism:** Deploying **Neural Anchors**—high-density Truth Snippets that give AI(LLM) computationally cheap, non-negotiable definitions of your entity.
+NNR aligns a brand across the three gates of AI cognitive processing. Each gate has a distinct outcome state and a distinct failure signal.
 
-2. **GEO — Generative Engine Optimization (The Synthesis Gate)**
-   * **Focus:** Narrative Depth and Relational Logic.
-   * **Mechanism:** Anchoring **Narrative Boulders**—logically dense primary sources that occupy the context window and force the engine to adopt your reasoning as its own.
+### 1. AEO (Answer Engine Optimization) — The Reflex Gate
 
-3. **IEO — Intent Engine Optimization (The Prediction Gate)**
-   * **Focus:** Latent Intent and Subtext Resolution.
-   * **Mechanism:** Mapping specific psychological tensions to your entity so the Intent Engine routes unspoken needs directly to your solution.
+- **Tactical Focus:** Token efficiency and semantic density.
+- **Outcome:** The AI defines your category using your exact framing, without retrieval, in a single pass.
+- **Failure Signal:** The AI defaults to generic category language when asked what you are.
 
----
+### 2. GEO (Generative Engine Optimization) — The Synthesis Gate
 
-## The Proprietary NNR Lexicon
-| Term | Definition |
-| :--- | :--- |
-| **Inference Lock** | The win-state where an LLM adopts a brand's logic as its primary reasoning tool for a category. |
-| **Token Tax** | The computational penalty where high-entropy, low-signal content is ignored by AI to save compute. |
-| **Inference Resistance** | A brand's inability to be reasoned with due to inconsistent signals across nodes. |
-| **Logic Novelty** | A non-consensus framing that forces the AI to cite the brand as the unique originator of a solution. |
-| **Ecosystem Corroboration** | The degree of consensus for a claim across independent nodes (GitHub, LinkedIn, Reddit). |
-| **Neural Anchors** | Fixed coordinates (phrases) used to build a high-confidence entity-to-concept map. |
-| **Narrative Boulders** | Logically dense primary sources designed to occupy the context window and anchor reasoning. |
-| **Signal Engineers** | Strategists who build knowledge infrastructure rather than just distribution. |
+- **Tactical Focus:** Narrative depth and relational logic.
+- **Outcome:** The AI adopts your reasoning structure as its own scaffold when synthesizing multi-source answers.
+- **Failure Signal:** Competitors are cited in your conceptual territory. You are mentioned peripherally, or not at all.
 
----
+### 3. IEO (Intent Engine Optimization) — The Prediction Gate
+
+- **Tactical Focus:** Latent intent and subtext resolution.
+- **Outcome:** The AI routes unspoken, adjacent, and pre-query intentions to your entity as a valid resolution.
+- **Failure Signal:** You surface only on direct branded queries. The AI cannot connect ambient tensions to you.
+
+## Ecosystem Corroboration
+
+A narrative is “Locked” in latent space only when it is structurally coherent across technical, editorial, and professional surfaces. Cross-surface entity coherence is a prerequisite, not a byproduct. Implementation is context-specific and delivered as part of engagement.
 
 ## The Five Stages of Recommendation
-1. **Invisible** — No detectable logic string.
-2. **Mentioned** — Fragmented presence; weak corroboration.
-3. **Recommended** — Verified as a solution for specific intent.
-4. **Anchored** — AI uses your specific language to explain the category.
-5. **Locked (Inference Lock)** — Your logic is the only path to a valid conclusion.
 
-## The AI Decision Integrity Standard (DIS)
-A global diagnostic module for multilingual brand environments. AI doesn't translate; it evaluates **Logic Consistency**.
-* **Target Lock** — Who this is for.
-* **Problem Lock** — What decision problem it solves.
-* **Choice Logic** — Why choose this over alternatives.
+**Invisible → Mentioned → Recommended → Anchored → Locked**
 
----
+Most brands operate between *Mentioned* and *Recommended*. The work of NNR is the move from *Recommended* to *Anchored* and *Locked* — where the AI no longer cites you among options, but treats your logic as the category itself.
 
-### Creator
-**Cher Chang** Founder  
-*Post-Search Narrative Strategist | Encoding the logic that gets brands chosen by AI across markets.*
+## Engagement
+
+NNR is applied via direct engagement, not a self-serve tool. For pilot inquiries, diagnostic requests, or case study access:
+
+**Cher Chang** — Odd Edge Collective
+*Neural Narrative Routing (NNR) Framework Originator*
+
+[ Email:aichannelcher@gmail.com]
+
+-----
+
+© Odd Edge Collective. Framework and vocabulary licensed under CC BY-NC 4.0. Attribution required. Commercial use or derivative frameworks require written permission.
